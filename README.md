@@ -55,7 +55,7 @@ Build a system to classifiy a url as malicious or safe using machine learning.
 * This algorithm short-listed only 7 features (major reduction)
 * Thus, simplifying time complexity for productionazing as well as reducing the dimensionality
 * Accuracy: 96.89%
-* [Code](https://github.com/philipkalinda/GeneticFS/blob/master/geneticfs/algorithm.py) & 
+* [Code](https://github.com/philipkalinda/GeneticFS/blob/master/geneticfs/algorithm.py)  
 
 
 
